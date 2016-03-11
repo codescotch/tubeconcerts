@@ -1,0 +1,28 @@
+#header {
+	margin-bottom: 0;
+}
+
+#main-heading p {
+	font-weight: 100;
+}
+
+#search-box {
+	margin-bottom: 0;
+	font-size: 80%;
+}
+
+#page-placeholder {
+	border-bottom: 0;
+	height: 70vh;
+	font-weight: 100;
+}
+
+.video-title {
+	padding: 20px;
+}
+
+.lity-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
