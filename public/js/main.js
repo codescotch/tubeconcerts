@@ -24,9 +24,6 @@ new Vue({
                 });
             // console.log(this.list);
             // this.$http.get('/someUrl', [data], [options]).then(successCallback, errorCallback);
-        },
-        modal: function ($videoId) {
-            
         }
     }
 });
